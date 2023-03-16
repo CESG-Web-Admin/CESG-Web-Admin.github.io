@@ -1,12 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "HOME"
+    url: ../index.html
+  - title: "ANNUAL MEETING"
+    url: /annualMeeting/current/details.html
+  - title: "CONTACT"
+    url: ../assets/pdf/youngkiCV.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+annualMeeting:
+  - title: Current Meeting
+    children:
+      - title: "Details"
+        url: /annualMeeting/current/details/
+      - title: "Call for Papers"
+        url: /annualMeeting/current/callForPapers/
+      - title: "Program"
+        url: /annualMeeting/current/program/
+      - title: "Registration"
+        url: /annualMeeting/current/registration/
+      - title: "Hotel/Travel Info"
+        url: /annualMeeting/current/hotelTravelInfo/
