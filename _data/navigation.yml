@@ -4,8 +4,6 @@ main:
     url: ../index.html
   - title: "ANNUAL MEETING"
     url: /annualMeeting/current/details/
-  - title: "CONTACT"
-    url: 
 
 annualMeeting:
   - title: Current Meeting
@@ -20,3 +18,9 @@ annualMeeting:
         url: /annualMeeting/current/registration/
       - title: "Hotel/Travel Info"
         url: /annualMeeting/current/hotelTravelInfo/
+  - title: Past Meetings
+    children:
+      - title: "2021: Vancouver, BC"
+        url: 
+      - title: "2019: Monreal, QC"
+        url: 

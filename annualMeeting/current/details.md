@@ -17,7 +17,7 @@ October 27-29, 2023\\
 Hamilton, Ontario
 {: style="font-size: 120%; text-align: center;"}
 
-The 38th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held on **October 27-29, 2023** in Hamilton, Ontario. The meeting is organized by the Department of Economics at McMaster University.
+The 38th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Hamilton, Ontario on **October 27-29, 2023**. The meeting is organized by the Department of Economics at McMaster University.
 {: style="text-align: justify;"}
 
 ----
