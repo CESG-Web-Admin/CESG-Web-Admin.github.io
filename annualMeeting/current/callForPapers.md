@@ -17,8 +17,9 @@ The 39th CESG Conference is organized by the Department of Economics at McMaster
 
 The conference theme is **“Information and Inference in Panels and Time Series.”** The keynote speakers are: 
 
-**Jinyong Hahn (UCLA) 
-  Anna Mikusheva (MIT)** 
+**Jinyong Hahn (UCLA)**
+{: style="text-align: center;"}
+**Anna Mikusheva (MIT)** 
 {: style="text-align: center;"}
 
 Contributed papers for presentation at the conference are now invited. Contributions are welcome in theoretical, applied, or computation econometrics. Submissions will be considered both for regular and for poster sessions and only completed papers (submitted in PDF format) will be considered.  
