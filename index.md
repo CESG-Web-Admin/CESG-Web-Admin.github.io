@@ -14,7 +14,7 @@ We bring together a community of passionate researchers who are interested in ad
 
 ----
 
-The 38th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Hamilton, Ontario on **October 27-29, 2023**. See the [details](/annualMeeting/current/details/).	
+The 38th CESG Annual Meeting will be held in Hamilton, Ontario on **October 27-29, 2023**. See the [details](/annualMeeting/current/details/).	
 
 ----
 
