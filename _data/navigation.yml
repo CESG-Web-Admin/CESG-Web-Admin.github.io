@@ -5,11 +5,7 @@ main:
   - title: "ANNUAL MEETING"
     url: /annualMeeting/current/details.html
   - title: "CONTACT"
-    url: ../assets/pdf/youngkiCV.pdf
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: 
 
 annualMeeting:
   - title: Current Meeting
