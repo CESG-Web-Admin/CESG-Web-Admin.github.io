@@ -3,7 +3,7 @@ main:
   - title: "HOME"
     url: ../index.html
   - title: "ANNUAL MEETING"
-    url: /annualMeeting/current/details.html
+    url: /annualMeeting/current/details/
   - title: "CONTACT"
     url: 
 
