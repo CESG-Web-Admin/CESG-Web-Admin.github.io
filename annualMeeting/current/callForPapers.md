@@ -32,3 +32,5 @@ All attendees are expected to register for the conference.
 For up-to-date information on the conference, please visit [https://caneconometrics.ca](https://caneconometrics.ca). 
  
  Local organizers: Irene Botosaru, Chris Muris, Jeff Racine, Youngki Shin
+
+ [Download PDF](/assets/pdf/CESG2023_callforpapers.pdf)
