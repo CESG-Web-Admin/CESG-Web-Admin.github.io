@@ -9,7 +9,7 @@ classes: wide
 
 ## Welcome to the Canadian Econometrics Study Group (CESG)
 
-We bring together a community of passionate researchers who are interested in advancing their knowledge and skills in econometrics and its applications. The CESG hosts an annual meeting and organizes the econometrics sessions at the Canadian Economics Association (CEA) annual conference.
+We bring together a community of passionate researchers who are interested in advancing their knowledge and skills in econometrics and its applications. The CESG organizes an annual meeting and arranges the econometrics sessions at the Canadian Economics Association (CEA) conference.
 {: .text-justify}
 
 ----
