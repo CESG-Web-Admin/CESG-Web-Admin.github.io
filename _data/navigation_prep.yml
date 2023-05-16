@@ -21,9 +21,9 @@ annualMeeting:
   - title: Past Meetings
     children:
       - title: "2021: Vancouver, BC"
-        url: 
+        url: /annualMeeting/past/2021/
       - title: "2019: Monreal, QC"
-        url: 
+        url: /annualMeeting/past/2019/
       - title: "2019: Ottawa, ON"
         url: 
       - title: "2018: Ottawa, ON"
