@@ -30,5 +30,14 @@ Hamilton ON, L8P 4S8
 
 
 ---
-Sponsors
+## Sponsors
+
+We extend our sincere appreciation to all the sponsors who support the 39th CESG Annual Meeting. 
+- McMaster University, Department of Economics
+- McMaster University, Office of the Provost
+- Analysis Group
+- McMaster University, Faculty of Social Science
+- Canadian Economics Association
+- The Society for Nonlinear Dynamics and Econometrics
+
 
