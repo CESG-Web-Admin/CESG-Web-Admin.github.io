@@ -30,32 +30,32 @@ annualMeeting:
         url: /annualMeeting/past/2017/
       - title: "2016: London, ON"
         url: /annualMeeting/past/2016/
-#     - title: "2015: Guelph, ON"
-#       url: /annualMeeting/past/2015/
-#     - title: "2014: Vancouver, BC"
-#        url: /annualMeeting/past/2014/
-#      - title: "2013: Waterloo, ON"
-#        url: /annualMeeting/past/2013/
-#      - title: "2012: Kingston, ON"
-#        url: /annualMeeting/past/2012/
-#      - title: "2011: Toronto, ON"
-#        url: /annualMeeting/past/2011/
-#      - title: "2010: Vancouver, ON"
-#        url: /annualMeeting/past/2010/
-#      - title: "2009: Ottawa, ON"
-#        url: /annualMeeting/past/2009/
-#      - title: "2008: "
-#        url: /annualMeeting/past/2008/
-#      - title: "2007: Montreal, ON"
-#        url: /annualMeeting/past/2007/
-#      - title: "2006: "
-#        url: /annualMeeting/past/2006/
-#      - title: "2005: "
-#        url: /annualMeeting/past/2005/
-#      - title: "2004: Toronto, ON"
-#        url: /annualMeeting/past/2004/
-#      - title: "2003: "
-#        url: /annualMeeting/past/2003/
+      - title: "2015: Guelph, ON"
+        url: /annualMeeting/past/2015/
+      - title: "2014: Vancouver, BC"
+        url: /annualMeeting/past/2014/
+      - title: "2013: Waterloo, ON"
+        url: /annualMeeting/past/2013/
+      - title: "2012: Kingston, ON"
+        url: /annualMeeting/past/2012/
+      - title: "2011: Toronto, ON"
+        url: /annualMeeting/past/2011/
+      - title: "2010: Vancouver, ON"
+        url: /annualMeeting/past/2010/
+      - title: "2009: Ottawa, ON"
+        url: /annualMeeting/past/2009/
+      - title: "2008: Montreal, QC"
+        url: /annualMeeting/past/2008/
+      - title: "2007: Montreal, ON"
+        url: /annualMeeting/past/2007/
+      - title: "2006: Niagara Falls, ON"
+        url: /annualMeeting/past/2006/
+      - title: "2005 "
+        url: /annualMeeting/past/2005/
+      - title: "2004: Toronto, ON"
+        url: /annualMeeting/past/2004/
+      - title: "2003 "
+        url: /annualMeeting/past/2003/
 #      - title: "2002: "
 #        url: /annualMeeting/past/2002/
 #      - title: "2001: Waterloo, ON"
