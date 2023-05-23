@@ -20,77 +20,77 @@ annualMeeting:
         url: /annualMeeting/current/hotelTravelInfo/
   - title: Past Meetings
     children:
-      - title: "2021: Vancouver, BC"
+      - title: "2021: Univ. of British Columbia"
         url: /annualMeeting/past/2021/
-      - title: "2019: Monreal, QC"
+      - title: "2019: UQAM and Univ. of Montreal"
         url: /annualMeeting/past/2019/
-      - title: "2018: Ottawa, ON"
+      - title: "2018: Carleton Univ. and Univ. of Ottawa"
         url: /annualMeeting/past/2018/
-      - title: "2017: Toronto, ON"
+      - title: "2017: York Univ."
         url: /annualMeeting/past/2017/
-      - title: "2016: London, ON"
+      - title: "2016: Univ. of Western Ontario"
         url: /annualMeeting/past/2016/
-      - title: "2015: Guelph, ON"
+      - title: "2015: Univ. of Guelph"
         url: /annualMeeting/past/2015/
-      - title: "2014: Vancouver, BC"
+      - title: "2014: Simon Fraser Univ."
         url: /annualMeeting/past/2014/
-      - title: "2013: Waterloo, ON"
+      - title: "2013: Univ. of Waterloo"
         url: /annualMeeting/past/2013/
-      - title: "2012: Kingston, ON"
+      - title: "2012: Queen's University"
         url: /annualMeeting/past/2012/
-      - title: "2011: Toronto, ON"
+      - title: "2011: Ryerson Univ."
         url: /annualMeeting/past/2011/
-      - title: "2010: Vancouver, ON"
+      - title: "2010: Univ. of British Columbia"
         url: /annualMeeting/past/2010/
-      - title: "2009: Ottawa, ON"
+      - title: "2009: Carleton Univ."
         url: /annualMeeting/past/2009/
-      - title: "2008: Montreal, QC"
+      - title: "2008: Concordia Univ."
         url: /annualMeeting/past/2008/
-      - title: "2007: Montreal, ON"
+      - title: "2007: McGill Univ."
         url: /annualMeeting/past/2007/
-      - title: "2006: Niagara Falls, ON"
+      - title: "2006: Brock Univ."
         url: /annualMeeting/past/2006/
-      - title: "2005: Vancouver, BC"
+      - title: "2005: Simon Fraser Univ."
         url: /annualMeeting/past/2005/
-      - title: "2004: Toronto, ON"
+      - title: "2004: York Univ."
         url: /annualMeeting/past/2004/
-      - title: "2003: Hamilton, ON "
+      - title: "2003: McMaster Univ."
         url: /annualMeeting/past/2003/
-      - title: "2002: Quebec City, QC"
+      - title: "2002: Laval Univ."
         url: /annualMeeting/past/2002/
-      - title: "2001: Waterloo, ON"
+      - title: "2001: Wilfrid Laurier Univ."
         url: /annualMeeting/past/2001/
-      - title: "2000: Guelph, ON"
+      - title: "2000: Univ. of Guelph"
         url: /annualMeeting/past/2000/
-      - title: "1999: Montreal, ON"
+      - title: "1999: Univ. of Montreal"
         url: /annualMeeting/past/1999/
-      - title: "1998: London, ON "
+      - title: "1998: Univ. of Western Ontario"
         url: /annualMeeting/past/1998/
-      - title: "1997: Kingston, ON"
+      - title: "1997: Queen’s Univ."
         url: /annualMeeting/past/1997/
-      - title: "1996: Waterloo, ON "
+      - title: "1996: Univ. of Waterloo"
         url: /annualMeeting/past/1996/
-      - title: "1995: Montreal, QC"
+      - title: "1995: McGill Univ."
         url: /annualMeeting/past/1995/
-      - title: "1994: Windsor, ON"
+      - title: "1994: Univ. of Windsor"
         url: /annualMeeting/past/1994/
       - title: "1993 "
         url: /annualMeeting/past/1993/
-      - title: "1992: Ottawa, ON"
+      - title: "1992: Carleton Univ. and Univ. of Ottawa"
         url: /annualMeeting/past/1992/
-      - title: "1991: Quebec City, QC"
+      - title: "1991: Laval Univ."
         url: /annualMeeting/past/1991/
-      - title: "1990: Guelph, ON"
+      - title: "1990: Univ. of Guelph"
         url: /annualMeeting/past/1990/
-      - title: "1989: Hamilon, ON"
+      - title: "1989: McMaster Univ."
         url: /annualMeeting/past/1989/
-      - title: "1988: Banff, AB"
+      - title: "1988: Univ. of Alberta"
         url: /annualMeeting/past/1988/
-      - title: "1987: Waterloo, ON"
+      - title: "1987: Wilfrid Laurier Univ."
         url: /annualMeeting/past/1987/
-      - title: "1986: Montreal, QC"
+      - title: "1986: Univ. of Montreal"
         url: /annualMeeting/past/1986/
-      - title: "1985: London, ON"
+      - title: "1985: Univ. of Western Ontario"
         url: /annualMeeting/past/1985/
-      - title: "1984: Kingston, ON"
+      - title: "1984: Queen’s Univ."
         url: /annualMeeting/past/1984/
