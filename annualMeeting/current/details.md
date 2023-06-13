@@ -39,5 +39,5 @@ We extend our sincere appreciation to all the sponsors who support the 39th CESG
 - McMaster University, Faculty of Social Science
 - Canadian Economics Association
 - The Society for Nonlinear Dynamics and Econometrics
-
+- International Association for Applied Econometrics
 
