@@ -32,7 +32,7 @@ Hamilton ON, L8P 4S8
 ---
 ## Sponsors
 
-We extend our sincere appreciation to all the sponsors who support the 39th CESG Annual Meeting. 
+We extend our sincere appreciation to all the sponsors who support the 38th CESG Annual Meeting. 
 - McMaster University, Department of Economics
 - McMaster University, Office of the Provost
 - Analysis Group
