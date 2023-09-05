@@ -74,8 +74,8 @@ Host: Department of Economics, McMaster University
 13:10 -- 15:10 Session III -- Chair: James MacKinnon (Queen's)
 
 > Jean-Marie Dufour (McGill): *Intervention Analysis, Causality and
-> Generalized Impulse Responses in VAR Models: Theory and Inference\
-> *Discussant: Stephen Snudden (Wilfrid Laurier)
+> Generalized Impulse Responses in VAR Models: Theory and Inference*\
+> Discussant: Stephen Snudden (Wilfrid Laurier)
 >
 > Russell Davidson (McGill): *Inference for Almost Stochastic Dominance*\
 > Discussant: Brennan Thompson (Toronto)
