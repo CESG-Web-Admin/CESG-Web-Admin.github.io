@@ -33,11 +33,19 @@ Hamilton ON, L8P 4S8
 ## Sponsors
 
 We extend our sincere appreciation to all the sponsors who support the 38th CESG Annual Meeting. 
-- McMaster University, Department of Economics
-- McMaster University, Office of the Provost
+- McMaster University
+- Social Science and Humanities Research Council of Canada
 - Analysis Group
-- McMaster University, Faculty of Social Science
 - Canadian Economics Association
-- The Society for Nonlinear Dynamics and Econometrics
 - International Association for Applied Econometrics
+- The Society for Nonlinear Dynamics and Econometrics
 
+
+<img src="/assets/images/{{page.year}}/mcmaster_re.png" alt="drawing" width="300"/>
+&emsp;&emsp;&emsp;<img src="/assets/images/{{page.year}}/sshrc_re.png" alt="drawing" width="400"/>
+
+<img src="/assets/images/{{page.year}}/analysis_group_re.png" alt="drawing" width="400"/>
+<img src="/assets/images/{{page.year}}/cea_re.png" alt="drawing" width="400"/>
+
+<img src="/assets/images/{{page.year}}/iaae_re.png" alt="drawing" width="400"/>
+<img src="/assets/images/{{page.year}}/snde_re.png" alt="drawing" width="400"/>
