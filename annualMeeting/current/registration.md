@@ -15,4 +15,6 @@ year: 2023
 **Registration**
 {: style="font-size: 125%; text-align: center;"}
 
-To Be Announced
+The registration page will be ready on September 22, 2023. 
+
+Thank you for your patience. 

@@ -19,7 +19,7 @@ year: 2023
 We have arranged a block of rooms at a special conference rate at the following two hotels:
 
 - Sheraton Hamilton 
-  + Rate: $199 until September 25, 2023
+  + Rate: $199 until ~~September 25, 2023~~ October 2, 2023
   + To book online, please use <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1683052594358&key=GRP&app=resvlink" target="_blank">this link</a>. Alternatively, you can call 1-888-627-8161 and request for the "CESG" block
 - Visitors Inn 
   + Rate: $139 for single, $149 for double until September 27
