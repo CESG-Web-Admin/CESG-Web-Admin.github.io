@@ -139,7 +139,10 @@ Host: Department of Economics, McMaster University
 > Saraswata Chaudhuri (McGill): *A Note on Efficient Estimation with
 > Monotonically Missing at Random Data*\
 > Discussant: Chris Muris (McMaster)
->
+> 
+> Prosper Dovonon (Concordia): *Efficiency Bounds for Moment Condition Models with Mixed Identification Strength*\
+> Discussant: Bertille Antoine (SFU)
+> 
 > Bulat Gafarov (UC Davis): *On Model Selection Criteria for Climate
 > Change Impact Studies*\
 > Discussant: Steven Lehrer (Queen's)
@@ -212,4 +215,4 @@ Host: Department of Economics, McMaster University
 
 ---
 
-[Download PDF](/assets/pdf/CESG2023_Program_2023_09_05.pdf)
+[Download PDF](/assets/pdf/CESG2023_Program_2023_09_18.pdf)
