@@ -17,14 +17,3 @@ year: 2023
 
 There are two steps for registration. Please complete both steps.
 
-# Step 1: Registration Fee
-
-### Regular Registration: $200 (plus HST. $226 in total)
-
-
-<br>
-
-# Step 2: Additional Information
-
-<a href="https://forms.gle/Bewt1xCF8BHdxG45A" target="_blank">Google Form Link</a>
-
