@@ -17,3 +17,8 @@ year: 2023
 
 There are two steps for registration. Please complete both steps.
 
+
+
+# Step 2: Additional Information
+
+<a href="https://forms.gle/Bewt1xCF8BHdxG45A" target="_blank">Google Form Link</a>
