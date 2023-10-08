@@ -134,7 +134,7 @@ Host: Department of Economics, McMaster University
 
 12:10 -- 13:10 Lunch
 
-13:10 -- 15:10 Session VII -- Chair: TBA
+13:10 -- 15:10 Session VII -- Chair: Mike Veall (McMaster)
 
 > Saraswata Chaudhuri (McGill): *A Note on Efficient Estimation with
 > Monotonically Missing at Random Data*\
@@ -215,4 +215,4 @@ Host: Department of Economics, McMaster University
 
 ---
 
-[Download PDF](/assets/pdf/CESG2023_Program_2023_09_18.pdf)
+[Download PDF](/assets/pdf/CESG2023_Program_2023_10_08.pdf)

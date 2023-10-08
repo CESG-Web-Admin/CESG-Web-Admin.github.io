@@ -27,6 +27,12 @@ Venue: Art Gallery of Hamilton
 Hamilton ON, L8P 4S8
 {: style="text-align: center;"}
 
+---
+## Keynote Speakers
+Jinyong Hahn (UCLA)
+{: style="font-size: 105%; text-align: center; color:#000099"}
+Anna Mikusheva (MIT)
+{: style="font-size: 105%; text-align: center; color:#000099"}
 
 
 ---
