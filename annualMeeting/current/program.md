@@ -114,7 +114,7 @@ Host: Department of Economics, McMaster University
 
 9:10 -- 10:30 Session V -- Chair: Irene Botosaru (McMaster)
 
-> Nail Kashaev (UWO): *Peer Effects in Random Consideration Sets*\
+> Nail Kashaev (UWO): *Peer Effects in Consideration and Preferences*\
 > Discussant: Matthieu Marcoux (Montreal)
 >
 > Tao Wang (Victoria): *Nonparametric Spatial Modal Regression*\
@@ -215,4 +215,4 @@ Host: Department of Economics, McMaster University
 
 ---
 
-[Download PDF](/assets/pdf/CESG2023_Program_2023_10_08.pdf)
+[Download PDF](/assets/pdf/CESG2023_Program_2023_10_10.pdf)
