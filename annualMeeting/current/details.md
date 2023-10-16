@@ -43,7 +43,7 @@ We extend our sincere appreciation to all the sponsors who support the 38th CESG
 - Social Science and Humanities Research Council of Canada
 - Analysis Group
 - Canadian Economics Association
-- International Association for Applied Econometrics
+- <a href="http://appliedeconometrics.org/" target="_blank">International Association for Applied Econometrics</a>
 - The Society for Nonlinear Dynamics and Econometrics
 
 
