@@ -50,7 +50,7 @@ We extend our sincere appreciation to all the sponsors who support the 38th CESG
 <img src="/assets/images/{{page.year}}/mcmaster_re.png" alt="drawing" width="300"/>
 &emsp;&emsp;&emsp;<img src="/assets/images/{{page.year}}/sshrc_re.png" alt="drawing" width="400"/>
 
-<img src="/assets/images/{{page.year}}/analysis_group_re.png" alt="drawing" width="400"/>
+<img src="/assets/images/{{page.year}}/analysis_group_new.jpg" alt="drawing" width="400"/>
 <img src="/assets/images/{{page.year}}/cea_re.png" alt="drawing" width="400"/>
 
 <img src="/assets/images/{{page.year}}/iaae_re.png" alt="drawing" width="400"/>
