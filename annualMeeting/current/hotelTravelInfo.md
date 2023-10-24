@@ -36,3 +36,6 @@ We have arranged a block of rooms at a special conference rate at the following 
   + Hamilton is easily accessible via several major highways, including the QEW (Queen Elizabeth Way) and the 403.
 - Train Travel
   + Hamilton is served by VIA Rail, providing train connections to various cities across Canada.
+
+## Parking Information around the Venue (Art Gallery of Hamilton)
+- Here is <a href="https://en.parkopedia.ca/parking/locations/art_gallery_of_hamilton_123_king_street_west_hamilton_ontario_l8p_4s8_canada_f40ddpxnn6yc3hn299/?country=ca&arriving=202310231900&leaving=202310232100" target="_blank">a link to the parking information.</a>
