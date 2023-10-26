@@ -55,3 +55,8 @@ We extend our sincere appreciation to all the sponsors who support the 38th CESG
 
 <img src="/assets/images/{{page.year}}/iaae_re.png" alt="drawing" width="400"/>
 <img src="/assets/images/{{page.year}}/snde_re.png" alt="drawing" width="400"/>
+
+---
+
+# Drop a PDF file of your presentation slides
+Here is a link to the folder you can drop your file of slides: <a href="https://www.dropbox.com/request/zJMkdMSiKB4ucusIPNW8" target="_blank">[Click Here]</a>
