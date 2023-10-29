@@ -78,7 +78,7 @@ Host: Department of Economics, McMaster University
 > Discussant: Stephen Snudden (Wilfrid Laurier)
 >
 > Russell Davidson (McGill): *Inference for Almost Stochastic Dominance*\
-> Discussant: Brennan Thompson (Toronto)
+> Discussant: Brennan Thompson (TMU)
 >
 > Purevdorj Tuvaandorj (York): *A Robust Permutation Test for Subvector
 > Inference in Linear Regression*\
@@ -98,7 +98,7 @@ Host: Department of Economics, McMaster University
 > Cathy Ning (TMU): *Extreme Risk Spillovers between Stock-Bond Markets*\
 > Discussant: Dinghai Xu (Waterloo)
 
-17:00 -- 18:45 Poster Session II (Fischer gallery)
+17:30 -- 18:45 Poster Session II (Fischer gallery)
 
 > Poster presenters listed on pages 3 and 4.
 
@@ -215,4 +215,4 @@ Host: Department of Economics, McMaster University
 
 ---
 
-[Download PDF](/assets/pdf/CESG2023_Program_2023_10_10.pdf)
+[Download PDF](/assets/pdf/cesg-program-2023.pdf)
