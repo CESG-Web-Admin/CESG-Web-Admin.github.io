@@ -14,7 +14,11 @@ We bring together a community of passionate researchers who are interested in ad
 
 ----
 
-The 38th CESG Annual Meeting will be held in Hamilton, Ontario on **October 27-29, 2023**. See the [details](/annualMeeting/current/details/).	
+The 39th CESG Annual Meeting in 2024 will be organized by <span style="color:#000099">York University</span> in Toronto, Ontario. The details including the conference dates will be announced soon. 
+
+----
+
+The 40th CESG Annual Meeting in 2025 will be organized by <span style="color:#000099">Carleton University</span> in Ottawa, Ontario. 
 
 ----
 
