@@ -18,7 +18,7 @@ DATE: TBA\\
 Toronto, Ontario
 {: style="font-size: 120%; text-align: center;"}
 
-The 39th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Toronto, Ontario on in 2024. The meeting is organized by the Department of Economics at York University.
+The 39th Annual Meeting of the Canadian Econometrics Study Group (CESG will be held in **Toronto, Ontario in 2024.** The meeting is organized by the Department of Economics at **York University.**
 {: style="text-align: justify;"}
 
 <!--
