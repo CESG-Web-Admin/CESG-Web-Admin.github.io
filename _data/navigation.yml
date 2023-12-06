@@ -10,8 +10,8 @@ annualMeeting:
     children:
       - title: "Details"
         url: /annualMeeting/current/details/
-#      - title: "Call for Papers"
-#        url: /annualMeeting/current/callForPapers/
+      - title: "Call for Papers"
+        url: /annualMeeting/current/callForPapers/
 #      - title: "Program"
 #        url: /annualMeeting/current/program/
 #      - title: "Registration"

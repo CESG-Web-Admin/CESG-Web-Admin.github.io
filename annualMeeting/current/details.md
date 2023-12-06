@@ -5,6 +5,7 @@ classes: wide
 sidebar:
   nav: "annualMeeting"
 year: 2024
+date: October 25-27
 ---
 <!--
 {:refdef: style="text-align: center;"}
@@ -14,57 +15,26 @@ year: 2024
 
 The 39th CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
-DATE: TBA\\
+{{page.date}}, {{page.year}}\\
 Toronto, Ontario
 {: style="font-size: 120%; text-align: center;"}
 
-The 39th Annual Meeting of the Canadian Econometrics Study Group (CESG will be held in **Toronto, Ontario in 2024.** The meeting is organized by the Department of Economics at **York University.**
+The 39th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Toronto, Ontario on **{{page.date}}, {{page.year}}**. The meeting is organized by the Department of Economics at York University.
 {: style="text-align: justify;"}
 
-<!--
 \\
-Venue: Art Gallery of Hamilton
+Venue: Novotel North York
 {: style="font-size: 120%; text-align: center; color:#000099"}
-123 King Street West\\
-Hamilton ON, L8P 4S8
+3 Park Home Avenue\\
+Toronto ON, M2N 6L3
 {: style="text-align: center;"}
--->
-
-<!--
 
 ---
-## Keynote Speakers: TBA
+**Keynote Speakers**
+{: style="font-size: 120%; text-align: center;"}
 
-Jinyong Hahn (UCLA)
+Marc Henry (Penn State University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
-Anna Mikusheva (MIT)
+Francesca Molinari (Cornell University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
--->
 
-<!--
----
-## Sponsors
-
-We extend our sincere appreciation to all the sponsors who support the 38th CESG Annual Meeting. 
-- McMaster University
-- Social Science and Humanities Research Council of Canada
-- Analysis Group
-- Canadian Economics Association
-- <a href="http://appliedeconometrics.org/" target="_blank">International Association for Applied Econometrics</a>
-- The Society for Nonlinear Dynamics and Econometrics
-
-
-<img src="/assets/images/{{page.year}}/mcmaster_re.png" alt="drawing" width="300"/>
-&emsp;&emsp;&emsp;<img src="/assets/images/{{page.year}}/sshrc_re.png" alt="drawing" width="400"/>
-
-<img src="/assets/images/{{page.year}}/analysis_group_new.jpg" alt="drawing" width="400"/>
-<img src="/assets/images/{{page.year}}/cea_re.png" alt="drawing" width="400"/>
-
-<img src="/assets/images/{{page.year}}/iaae_re.png" alt="drawing" width="400"/>
-<img src="/assets/images/{{page.year}}/snde_re.png" alt="drawing" width="400"/>
-
----
-
-# Drop a PDF file of your presentation slides
-Here is a link to the folder you can drop your file of slides: <a href="https://www.dropbox.com/request/zJMkdMSiKB4ucusIPNW8" target="_blank">[Click Here]</a>
--->
