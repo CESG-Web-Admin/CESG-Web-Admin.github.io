@@ -7,11 +7,10 @@ sidebar:
 year: 2024
 date: October 25-27
 ---
-<!--
 {:refdef: style="text-align: center;"}
 ![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
 {: refdef}
--->
+
 
 The 39th CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
