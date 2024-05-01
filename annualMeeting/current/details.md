@@ -37,3 +37,25 @@ Marc Henry (Penn State University)
 Francesca Molinari (Cornell University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
 
+---
+## Sponsors
+We extend our sincere appreciation to all the sponsors who support the 39th CESG Annual Meeting.
+  - Office of the Vice-President Research & Innovation, York University
+  - Faculty of Liberal Arts & Professional Studies, York University
+  - Department of Economics, York University
+  - Social Science and Humanities Research Council of Canada
+  - Canadian Economics Association 
+  - Analysis Group
+  - The Society for Nonlinear Dynamics and Econometrics
+  - York University's CIRC "Digital Currencies"
+
+
+<img src="/assets/images/{{page.year}}/york.png" alt="drawing" width="300"/>
+
+<img src="/assets/images/{{page.year}}/sshrc.jpg" alt="drawing"/>
+
+<img src="/assets/images/{{page.year}}/cea.jpg" alt="drawing"  width="300"/>
+
+<img src="/assets/images/{{page.year}}/snde.jpg" alt="drawing"/>
+
+<img src="/assets/images/{{page.year}}/analysis_group.png" alt="drawing"  width="300"/>
