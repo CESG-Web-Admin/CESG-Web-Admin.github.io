@@ -4,7 +4,7 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
-year: 2023
+year: 2024
 ---
 {:refdef: style="text-align: center;"}
 ![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
@@ -16,203 +16,190 @@ year: 2023
 {: style="font-size: 125%; text-align: center;"}
 
 
-38<sup>th</sup> Annual Meeting of the Canadian Econometrics Study Group
+39<sup>th</sup> Annual Meeting of the Canadian Econometrics Study Group
 {: style="font-size: 120%; text-align: center;"}
 
-**Information and Inference in Panels and Time Series**
+**Inequality Measures and Econometric Modelling**
 {: style="font-size: 100%; text-align: center;"}
 
+Preliminary schedule as of August 13, 2024
 {: style="font-size: 100%; text-align: center;"}
 
-Dates: October 27 -- 29, 2023
+Dates: October 25 -- 27, 2024
 {: style="font-size: 100%; text-align: center;"}
 
-Venue: The Art Gallery of Hamilton (Fischer gallery and Tanenbaum
-pavilion)
+Venue: Novotel North York
 {: style="font-size: 85%; text-align: center;"}
 
-Host: Department of Economics, McMaster University
+Host: Department of Economics, York University
 {: style="font-size: 85%; text-align: center;"}
 
-**Friday, October 27, 2023**
+**Friday, October 25, 2024**
 
-18:00 -- 20:00 Welcome reception and Poster Session I (Fischer gallery).
+18:00 -- 20:00: Welcome Reception and Poster Session I
+> Poster presenters listed on pages 3 -- 5.
 
-> Poster presenters listed on pages 3 and 4.
+**Saturday, October 26, 2024**
 
-**Saturday, October 28, 2023**
+8:00 -- 8:30: Continental Breakfast and Registration
 
-8:00 -- 8:30 Continental Breakfast and Registration
+8:30 -- 9:10: Keynote Address I -- Chair: Antoine Djogbenou (York University)
+> Francesca Molinari (Cornell University): *Inference for an Algorithmic Fairness-Accuracy Frontier*
 
-8:30 -- 9:10 Keynote Address I -- Chair: Youngki Shin (McMaster)
-
-> Anna Mikusheva (MIT): *Linear Regression with Weak Exogeneity*
-
-9:10 -- 10:30 Session I -- Chair: Youngki Shin (McMaster)
-
-> Marine Carrasco (Montreal): *Regularized LIML for Dynamic Panel Data
-> Models*\
-> Discussant: Pascale Valery (HEC Montreal)
+9:15 -- 10:35: Session I -- IDENTIFICATION -- Chair: Victoria Zinde-Walsh (McGill University)
+> Victor Aguirregabiria (University of Toronto): *Identification of Structural Parameters in Dynamic Discrete Choice Games with Fixed Effects Unobserved Heterogeneity*\
+> Discussant: Jun Zhao (York University)
 >
-> Kenichi Shimizu (Alberta): *Semiparametric Bayesian Estimation of
-> Dynamic Discrete Choice Models*\
-> Discussant: Martin Burda (Toronto)
+> Ruli Xiao (Indiana University): *Identification of Dynamic Discrete Choice Models with Hyperbolic Discounting Using a Terminating Action*\
+> Discussant: Mathieu Marcoux (University of Montreal)
 
-10:30 -- 10:50 Break
+10:35 -- 10:50: Break
 
-10:50 -- 12:10 Session II -- Chair: Matt Webb (Carleton)
-
-> Yao Luo (Toronto): *Penalized Sieve Estimation of Structural Models*\
-> Discussant: Dongwoo Kim (SFU)
+10:50 -- 12:10: Session II -- EFFICIENT ESTIMATION -- Chair: Prosper Dovonon (Concordia University)
+> Bertille Antoine (Simon Fraser University): *Efficient Two-Sample Instrumental Variable Estimators with Change-Points and Near-weak Identification*\
+> Discussant: Leonard Goff (University of Calgary)
 >
-> Victoria Zinde-Walsh (McGill): *Kernel Estimation in Regression on
-> Vector and Function* *Spaces*\
-> Discussant: Jeff Racine (McMaster)
+> Ilze Kalnina (North Carolina State University): *Improved Estimation by Simulated Maximum Likelihood*\
+> Discussant: Nikolay Kudrin (Queen's University)
 
-12:10 -- 13:10 Lunch
+12:10 -- 13:10: Lunch
 
-13:10 -- 15:10 Session III -- Chair: James MacKinnon (Queen's)
-
-> Jean-Marie Dufour (McGill): *Intervention Analysis, Causality and
-> Generalized Impulse Responses in VAR Models: Theory and Inference*\
-> Discussant: Stephen Snudden (Wilfrid Laurier)
+13:10 -- 15:10: Session III –- INEQUALITY MEASURES I -- Chair: René Garcia (University of Montreal)
+> Arthur Charpentier (UQAM): *Calibration of Probabilistic Scores of Classifiers*\
+> Discussant: Yang Lu (Concordia University)
 >
-> Russell Davidson (McGill): *Inference for Almost Stochastic Dominance*\
-> Discussant: Brennan Thompson (TMU)
+> Jean-Marie Dufour (McGill University): *Winners and Losers: Extended Lorenz Curves and Gini Coefficients for Possibly Negative Variables*\
+> Discussant: Xin Gao (York University)
 >
-> Purevdorj Tuvaandorj (York): *A Robust Permutation Test for Subvector
-> Inference in Linear Regression*\
-> Discussant: Kevin Song (VSE)
+> Christian Gourieroux (University of Toronto): *The Risk of Random Sets with Applications to Basket Derivatives*\
+> Discussant: Ilya Archakov (York University)
 
-15:10 -- 15:30 Break
+15:10 -- 15:30: Break
 
-15:30 -- 17:30 Session IV -- Chair: Wenjie Wang (NTU)
-
-> Vadim Marmer (VSE): *Modeling Long Cycles*\
-> Discussant: Antoine Djogbenou (York)
+15:30 -- 17:30: Session in Honor of Russell Davidson (McGill University) -- Chair: James MacKinnon (Queen's University)
+> Charles Beach (Queen's University): *A Statistical Characterization of Median-Based Inequality Measures*\
+> Discussant: Pujee Tuvaandorj (York University)
 >
-> Alex Maynard (Guelph): *Robust Conditional Kurtosis and the
-> Cross-Section of International Stock Returns*\
-> Discussant: Joann Jasiak (York)
+> Emmanuel Flachaire (Aix-Marseille University): *Inequality Decomposition with Machine Learning*\
+> Discussant: Xiaolin Sun (Monash University)
 >
-> Cathy Ning (TMU): *Extreme Risk Spillovers between Stock-Bond Markets*\
-> Discussant: Dinghai Xu (Waterloo)
+> Rami Tabri (Monash University): *The Information Projection in Moment Inequality Models: Existence, Dual Representation, and Approximation*\
+> Discussant: Thomas Russell (Carleton University)
 
-17:30 -- 18:45 Poster Session II (Fischer gallery)
+17:30 -- 18:45: Poster Session II
+> Poster presenters listed on pages 3 -- 5.
 
-> Poster presenters listed on pages 3 and 4.
+19:00 -- 21:00: Conference Dinner
 
-19:00 -- 21:00 Conference Dinner
+**Sunday, October 27, 2024**
 
-**Sunday, October 29, 2023**
+8:00 -- 8:30: Continental Breakfast
 
-8:00 -- 8:30 Continental Breakfast
+8:30 -- 9:10: Keynote Address II -- Chair: Paul Rilstone (York University)
+> Marc Henry (Penn State University): *Lorenz Map, Inequality Ordering and Curves Based on Multidimensional Rearrangements*
 
-8:30 -- 9:10 Keynote Address II -- Chair: Irene Botosaru (McMaster)
-
-> Jinyong Hahn (UCLA): *Test of Neglected Heterogeneity in Dyadic Models*
-
-9:10 -- 10:30 Session V -- Chair: Irene Botosaru (McMaster)
-
-> Nail Kashaev (UWO): *Peer Effects in Consideration and Preferences*\
-> Discussant: Matthieu Marcoux (Montreal)
+9:15 -- 10:35: Session V  -- INEQUALITY MEASURES II -- Chair: Marcel Voia (University of Orleans)
+> Gordon Anderson (University of Toronto): *Inequality Measurement in Multivariate Ordinal Environments*\
+> Discussant: Max Antoine Lesellier (University of Montreal)
 >
-> Tao Wang (Victoria): *Nonparametric Spatial Modal Regression*\
-> Discussant: Yiguo Sun (Guelph)
+> Ricardas Zitikis (Western University): *Measuring Income Inequality via Percentile Relativities*\
+> Discussant: Arthur Thomas (Paris Dauphine University)
 
-10:30 -- 10:50 Break
+10:35 -- 10:50: Break
 
-10:50 -- 12:10 Session VI -- Chair: Paul Rilstone (York)
-
-> Arturas Juodis (Amsterdam): *This Shock Is Different: Estimation and
-> Inference in Misspecified Two-Way Fixed Effects Panel Regression*\
-> Discussant: Doosoo Kim (TMU)
+10:50 -- 12:10: Session VI -- BIG DATA -- Chair: Razvan Sufana (York University)
+> Bin Chen (University of Rochester): *Inference for CP Tensor Factor Model*\
+> Discussant: Dalibor Stevanovic (UQAM)
 >
-> Brantly Callaway (Georgia State): *Difference in Differences with a
-> Continuous Treatment*\
-> Discussant: Roy Allen (UWO)
+> Firmin Doko Tchatoka (The University of Adelaide): *Identification of High-Dimensional Panel Autoregressions with Application to Climate Change*\
+> Discussant: Abhimanyu Gupta (University of Essex)
 
-12:10 -- 13:10 Lunch
+12:10 -- 13:10: Lunch
 
-13:10 -- 15:10 Session VII -- Chair: Mike Veall (McMaster)
+13:10 -- 15:10: Session VII  --  CAUSAL INFERENCE -- Chair: Lynda Khalaf (Carleton University)
+> Désiré Kédagni (University of North Carolina at Chapel Hill): *Evaluating the Impact of Regulatory Policies on Social Welfare in Difference-in-Difference Settings*\
+> Discussant: Julius Owusu (University of Bristol)
+>
+> Hiro Kasahara (Vancouver School of Economics): *Event Study Designs for Discrete Outcomes with Latent Heterogeneity*\
+> Discussant: Yuanyuan Wan (University of Toronto)
+>
+> Ismaël Mourifié (Washington University in St. Louis): *Lee Bounds with Multilayered Sample Selection*\
+> Discussant: Nese Yildiz (University of Rochester)
 
-> Saraswata Chaudhuri (McGill): *A Note on Efficient Estimation with
-> Monotonically Missing at Random Data*\
-> Discussant: Chris Muris (McMaster)
-> 
-> Prosper Dovonon (Concordia): *Efficiency Bounds for Moment Condition Models with Mixed Identification Strength*\
-> Discussant: Bertille Antoine (SFU)
-> 
-> Bulat Gafarov (UC Davis): *On Model Selection Criteria for Climate
-> Change Impact Studies*\
-> Discussant: Steven Lehrer (Queen's)
+## **Poster Session I**:
+1. Abdallah Zalghout (MacEwan University): *Simultaneous Inference Methods for Distributional Analysis*
+2. Abhimanyu Gupta (University of Essex): *Testing Linearity of Spatial Interaction Functions*
+3. Adrian K. Schroeder (University of Toronto): *Recurrent Neural Network GO-GARCH Model for Portfolio Selection*
+4. Alain Hecq (Maastricht University): *Reduced-Rank Matrix Autoregressive Models: A Medium N Approach*
+5. Alex Maynard (University of Guelph): *Inference in Predictive Quantile Regressions*
+6. Alexander Murray (Bank of Canada): *Model Aggregation for Improving Forecasts of Canada's Core Inflation Rate*
+7. Amal Sere (University of Montreal): *Estimation of Demand with Market-Level Data in the Case of Decreasing Returns*
+8. Arthur Thomas (Paris Dauphine University): *Forecasting Extreme Trajectories Using Semi-norm Representations*
+9. Aryan Manafi Neyazi (York University): *GCov-Based Portmanteau Test*
+10. Atom Vayalinkal (University of Toronto): *Sharp Identification Regions in General Selection Models with (Un)ordered Treatments and Discrete Instruments*
+11. Brice Gueyap (Western University): *Identification and Estimation of a Semiparametric Logit Model using Network Data*
+12. Cathy Ning (Toronto Metropolitan University): *Safe Haven Currencies: A Dependence-Switching Copula Approach*
+13. Chenyue Liu (University of Toronto): *Identifying Local Quantile Treatment Effects With an Invalid Instrument*
+14. Dalibor Stevanovic (UQAM): *Estimation of Non-Gaussian SVAR Using Tensor Singular Value Decomposition*
+15. Dinghai Xu (University of Waterloo): *Modeling "Good" and "Bad" Volatilities under a Threshold Realized Semivariance GARCH*
+16. Dongwoo Kim (Simon Fraser University): *Semi-Nonparametric Models of Multidimensional Matching: an Optimal Transport Approach*
+17. Doosoo Kim (Toronto Metropolitan University): *Specification Tests for Difference-in-Differences Models*
+18. Doyeon Pyun (Indiana University): *From Functional Autoregressions to Vector Autoregressions*
+19. Emile Herve Ndoumbe (University of Ottawa): *Estimating Industry Risk Premia using Large-Scale Information on Volatility: A Supervised Dynamic Orthogonal Component (sDOC) Approach*
+20. Endong Wang (McGill University): *Counterfactual Analysis in Macroeconomics: Theory and Inference*
+21. Erica Mtenga (Georgia State University): *Estimating Treatment Effects in the Presence of Overlapping Programs and Misreporting*
+22. Firmin Ayivodji (University of Montreal): *Can Media Narratives Predict House Price Movements?*
+23. Gabriel Rodriguez-Rondon (McGill University): *Estimation and Inference for Higher-Order Stochastic Volatility Models with Leverage*
+24. Hui Xiao (Saint Mary's University): *Trust Thy Neighbor? Uncovering the Structure of the Real Estate Market*
+25. Hyun Hak Kim (Toronto Metropolitan University): *GAM-MIDAS: Generalized Additive Model Based Mixed-Data Sampling Regression with Informal Data*
+26. Jiatong Li (Vanderbilt University): *Uniform Inference in High-Dimensional Threshold Regression Models*
+27. Jooyoung Cha (Vanderbilt University): *Beyond Sparsity: Local Projections Inference with High-Dimensional Covariates*
+28. Julius Owusu (University of Bristol): *Randomization Inference of Heterogeneous Treatment Effects under Network Interference*
+29. Kazuhiko Hayakawa (Hiroshima University): *A Unified Approach to Estimation and Inference for Short Linear Panel Regression Models with Dynamics, Endogeneity and Interactive Fixed Effects*
+30. Kenichi Shimizu (University of Alberta): *Scalable Estimation of Multinomial Response Models with Uncertain Consideration Sets*
+31. Kensuke Sakamoto (University of Wisconsin-Madison): *Causal Inference under Endogenous Network Interference*
+32. Leonard Goff (University of Calgary): *Outcome-Agnostic Identification with Instrumental Variables*
+33. Marine Carrasco (University of Montreal): *Nonparametric Estimation of the Density of a Change-Point*
+34. Martin Burda (University of Toronto): *Constrained Bayesian Neural Network Utility in the Design of Price Promotions*
+35. Masaya Takano (Monash University): *Dynamics of Distributions: Earnings, Income, and Wealth*
+36. Mathieu Marcoux (University of Montreal): *Estimating Marginal Costs from Discrete Prices and Product Characteristics: An Application to Mobile Plans*
+37. Matthew D. Webb (Carleton University): *Using Images as Covariates: Measuring Curb Appeal with Deep Learning*
 
-**Poster Session I**:
-
-1.  Young Ahn (UPenn): *Difference in Differences with Latent Group
-    Structures*
-2.  Roy Allen (UWO): *Latent Utils and Permutations Invariance*
-3.  Bertille Antoine (SFU): *Coordinated Testing for Identification
-    Failure and Correct Model Specification*
-4.  Martin Burda (Toronto): *Bayesian Adaptive Sparse Copula*
-5.  Jooyoung Cha (Vanderbilt): *Inference in High-dimensional Regression
-    Models without the Exact or L^p^ sparsity*
-6.  Basu Deepankar (UMass Amherst): *The Yule-Frisch-Waugh-Lovell
-    Theorem for Linear Instrumental Variables Estimation*
-7.  Joseph Fry (CU Boulder)*: A Method of Moments Approach to
-    Asymptotically Unbiased Synthetic Controls*
-8.  Sudipto Ghosh (Waterloo): *Modeling "Good" and "Bad" Volatilities
-    under a Threshold Realized Semivariance GARCH*
-9.  Emre Inan (York): *Time-Varying Coefficient DAR Model and Stability
-    Measures for Stablecoin Prices: An Application to Tether*
-10. Joann Jasiak (York): *Nonlinear Fore(Back)casting and Innovation
-    Filtering for Causal-Noncausal (S)VAR Models*
-11. Sunny Karim (Carleton): *Difference-in-Differences with Unpoolable
-    Data*
-12. Doosoo Kim (TMU): *Linearized GMM Estimator*
-13. Julia Koh (McGill): *Bootstrapping Factor-MIDAS Regression Models*
-14. Quinlan Lee (Toronto): *Nonlinear Impulse Response Functions and
-    Local Projections*
-15. Steve Lehrer (Queen's): *Labor Market Consequences of Pay Equity
-    Laws*
-16. Max Lesellier (Toulouse): *Testing and Relaxing Distributional
-    Assumptions on Random Coefficients in Demand Models*
-17. Debora Loccisano (Carleton): *Predictive Identification Robust
-    Confidence Sets with Application to Tail Risk Measures*
-
-**Poster Session II**:
-
-1.  Dongwoo Kim (SFU): *Nonparametric Estimation of Sponsored Search
-    Auctions and Impacts of AD Quality of Search Revenue*
-2.  Yukun Ma (Vanderbilt): *Identification-Robust Inference for the Late
-    with High-dimensional Covariates*
-3.  Peter MacKenzie (York): *Digital Divide: Empirical Study of CIUS
-    2020*
-4.  James MacKinnon (Queen's): *Reliable Inference with Two-Way
-    Clustering*
-5.  Matthieu Marcoux (Montreal): *A Simple Specification Test for Models
-    with Many Conditional Moment Inequalities*
-6.  Jacob Schwartz (Haifa): *The Law of Large Numbers for Large Stable
-    Matchings*
-7.  Stephen Snudden (Wilfrid Laurier): *Don't Ruin the Surprise:
-    Temporal Aggregation Bias in Structural Innovations*
-8.  Kevin Song (VSE): *Measuring Diffusion over a Large Network*
-9.  Pascale Valery (HEC Montreal): *Adaptive Eigenspace Regularized
-    Rank-Robust Wald Tests*
-10. Wenjie Wang (NTU): *A Conditional Linear Combination Test with Many
-    Weak Instruments*
-11. Yiwen Wang (Winnipeg): *Heterogeneity in House Price Expectations:
-    Evidence from Survey Data*
-12. Matt Webb (Carleton): *Cluster-Robust Jackknife Variance Matrix
-    Estimators for Binary Response Models*
-13. Ke Xu (Victoria): *The Importance of Long Memory for Price Discovery
-    Measurement*
-14. Jianhan Zhang (Guelph): *Endogenous Kink Threshold Regression*
-15. Xiaoyan Zhou (Purdue): *Adaptive Group LASSO Shrinkage in
-    Heterogeneous Spatial Dynamic Panel Models*
-16. Hui Xiao (Saint Mary's): *Trust Thy Neighbor? Uncovering the
-    Structure of the Real Estate Market*
+## **Poster Session II**:
+1. Matthew J. Elias (e61 Institute): *Testing for Restricted Stochastic Dominance under Survey Nonresponse with Panel Data: Theory and an Evaluation of Poverty in Australia*
+2. Max Antoine Lesellier (University de Montreal): *A Most Powerful Moment-Based Test on the Distribution of Random Coefficients*
+3. Nikolay Kudrin (Queen's University): *Robust Caliper Tests*
+4. Peter MacKenzie (York University): *Assessing the Impact of Digital and Financial Technologies on Business Efficiency and Cyber Security in Canada*
+5. Prosper Dovonon (Concordia University): *A Uniformly Valid Test for Instrument Exogeneity*
+6. Quinlan Lee (University of Toronto): *Forecast Relative Error Decomposition*
+7. Rosnel Sessinou (HEC Montreal): *Precision Least Squares: Estimation and Inference in High-Dimensions*
+8. Sidi Sawadogo (University of Montreal): *Machine Learning in Two-Stage Estimation of Dynamic Structural Models: A Focus on Transition Matrix Estimation*
+9. Steven F. Lehrer (Queen's University): *Do Opportunities for Low-Income Students at Top Colleges Promote Academic Success? Evidence from Colombia's Ser Pilo Paga Program*
+10. Sunny Karim (Carleton University): *Difference-in-Differences with Unpoolable Data*
+11. Thomas Russell (Carleton University): *A Dual Approach to Wasserstein-Robust Counterfactuals*
+12. Vadim Marmer (University of British Columbia): *Unknown Group Structures in Econometric Models*
+13. Wasiu Babajide Akintunde (Texas Tech University): *Exploring the Link Between Technological Innovation, Economic Development, and CO2 Emissions in the US: Application of the ANN and EKC Techniques*
+14. Wilfried Youmbi (Western University): *Nonparametric Analysis of Random Utility Models with Nontransitive Preferences*
+15. Xiaolin Sun (Monash University): *Partially Identified Heterogeneous Treatment Effect with Selection: An Application to Gender Gaps*
+16. Yang Lu (Concordia University): *Backtesting Expected Shortfall: A Duration-Severity Approach*
+17. Yanyou Chen (University of Toronto): *Driving the Drivers: Algorithmic Assignment in Ride-Hailing*
+18. Yao Luo (University of Toronto): *Demand Analysis under Price Rigidity and Endogenous Assortment: An Application to China's Tobacco Industry*
+19. Yukun Ma (Vanderbilt University): *Doubly Robust Estimators with Weak Overlap*
+20. Yuya Shimizu (University of Wisconsin-Madison): *Nonparametric Regression under Cluster Sampling*
 
 ---
 
-[Download PDF](/assets/pdf/cesg-program-2023.pdf)
+**Sponsors**:
+- Office of the Vice-President Research & Innovation, York University
+- Faculty of Liberal Arts & Professional Studies, York University
+- Department of Economics, York University
+- Social Sciences and Humanities Research Council of Canada
+- Canadian Economics Association
+- Analysis Group
+- The Society for Nonlinear Dynamics and Econometrics
+- York University's CIRC "Digital Currencies"
+
+---
+
+[Download PDF](/assets/pdf/cesg-program-2024.pdf)
+{: style="font-size: 100%; text-align: center;"}
