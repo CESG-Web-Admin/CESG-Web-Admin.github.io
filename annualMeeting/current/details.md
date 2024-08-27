@@ -48,6 +48,7 @@ We extend our sincere appreciation to all the sponsors who support the 39th CESG
   - Analysis Group
   - The Society for Nonlinear Dynamics and Econometrics
   - York University's CIRC "Digital Currencies"
+  - The Fields Institute
 
 
 <img src="/assets/images/{{page.year}}/york.png" alt="drawing" width="300"/>
@@ -59,3 +60,5 @@ We extend our sincere appreciation to all the sponsors who support the 39th CESG
 <img src="/assets/images/{{page.year}}/snde.jpg" alt="drawing"/>
 
 <img src="/assets/images/{{page.year}}/analysis_group.png" alt="drawing"  width="300"/>
+
+<img src="/assets/images/{{page.year}}/Fields_Institute_Logo.png" alt="drawing"  width="300"/>

@@ -22,7 +22,7 @@ year: 2024
 **Inequality Measures and Econometric Modelling**
 {: style="font-size: 100%; text-align: center;"}
 
-Preliminary schedule as of August 13, 2024
+Schedule as of August 26, 2024
 {: style="font-size: 100%; text-align: center;"}
 
 Dates: October 25 -- 27, 2024
@@ -37,7 +37,7 @@ Host: Department of Economics, York University
 **Friday, October 25, 2024**
 
 18:00 -- 20:00: Welcome Reception and Poster Session I
-> Poster presenters listed on pages 3 -- 5.
+> Poster presenters listed below.
 
 **Saturday, October 26, 2024**
 
@@ -87,7 +87,7 @@ Host: Department of Economics, York University
 > Discussant: Thomas Russell (Carleton University)
 
 17:30 -- 18:45: Poster Session II
-> Poster presenters listed on pages 3 -- 5.
+> Poster presenters listed below.
 
 19:00 -- 21:00: Conference Dinner
 
@@ -167,8 +167,8 @@ Host: Department of Economics, York University
 
 ## **Poster Session II**:
 1. Matthew J. Elias (e61 Institute): *Testing for Restricted Stochastic Dominance under Survey Nonresponse with Panel Data: Theory and an Evaluation of Poverty in Australia*
-2. Max Antoine Lesellier (University de Montreal): *A Most Powerful Moment-Based Test on the Distribution of Random Coefficients*
-3. Nikolay Kudrin (Queen's University): *Robust Caliper Tests*
+2. Max Antoine Lesellier (University of Montreal): *A Most Powerful Moment-Based Test on the Distribution of Random Coefficients*
+3. Nikolay Kudrin (Queen's University): *Testing for and Evaluating the Extent of Selective Reporting*
 4. Peter MacKenzie (York University): *Assessing the Impact of Digital and Financial Technologies on Business Efficiency and Cyber Security in Canada*
 5. Prosper Dovonon (Concordia University): *A Uniformly Valid Test for Instrument Exogeneity*
 6. Quinlan Lee (University of Toronto): *Forecast Relative Error Decomposition*
@@ -198,6 +198,7 @@ Host: Department of Economics, York University
 - Analysis Group
 - The Society for Nonlinear Dynamics and Econometrics
 - York University's CIRC "Digital Currencies"
+- The Fields Institute
 
 ---
 
