@@ -116,7 +116,7 @@ Host: Department of Economics, York University
 
 12:10 -- 13:10: Lunch
 
-13:10 -- 15:10: Session VII  --  CAUSAL INFERENCE -- Chair: Lynda Khalaf (Carleton University)
+13:10 -- 15:10: Session VII  --  CAUSAL INFERENCE -- Chair: Alain Hecq (Maastricht University)
 > Ismaël Mourifié (Washington University in St. Louis): *Lee Bounds with Multilayered Sample Selection*\
 > Discussant: Nese Yildiz (University of Rochester)
 > 
@@ -146,7 +146,6 @@ Host: Department of Economics, York University
 17. Doyeon Pyun (Indiana University): *From Functional Autoregressions to Vector Autoregressions*
 18. Emile Herve Ndoumbe (University of Ottawa): *Estimating Industry Risk Premia using Large-Scale Information on Volatility: A Supervised Dynamic Orthogonal Component (sDOC) Approach*
 19. Endong Wang (McGill University): *Counterfactual Analysis in Macroeconomics: Theory and Inference*
-20. Erica Mtenga (Georgia State University): *Estimating Treatment Effects in the Presence of Overlapping Programs and Misreporting*
 21. Gabriel Rodriguez-Rondon (McGill University): *Estimation and Inference for Higher-Order Stochastic Volatility Models with Leverage*
 22. Hui Xiao (Saint Mary's University): *Trust Thy Neighbor? Uncovering the Structure of the Real Estate Market*
 23. Hyun Hak Kim (Toronto Metropolitan University): *GAM-MIDAS: Generalized Additive Model Based Mixed-Data Sampling Regression with Informal Data*
@@ -157,7 +156,6 @@ Host: Department of Economics, York University
 28. Kenichi Shimizu (University of Alberta): *Scalable Estimation of Multinomial Response Models with Uncertain Consideration Sets*
 29. Kensuke Sakamoto (University of Wisconsin-Madison): *Causal Inference under Endogenous Network Interference*
 30. Leonard Goff (University of Calgary): *Outcome-Agnostic Identification with Instrumental Variables*
-31. Lynda Khalaf (Carleton University): *Simultaneous Inference Methods for Distributional Analysis*
 32. Marine Carrasco (University of Montreal): *Nonparametric Estimation of the Density of a Change-Point*
 33. Martin Burda (University of Toronto): *Constrained Bayesian Neural Network Utility in the Design of Price Promotions*
 34. Masaya Takano (Monash University): *Dynamics of Distributions: Earnings, Income, and Wealth*
