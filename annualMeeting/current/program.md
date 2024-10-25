@@ -22,9 +22,6 @@ year: 2024
 **Inequality Measures and Econometric Modelling**
 {: style="font-size: 100%; text-align: center;"}
 
-Schedule as of August 26, 2024
-{: style="font-size: 100%; text-align: center;"}
-
 Dates: October 25 -- 27, 2024
 {: style="font-size: 100%; text-align: center;"}
 
@@ -131,7 +128,6 @@ Host: Department of Economics, York University
 2. Adrian K. Schroeder (University of Toronto): *Recurrent Neural Network GO-GARCH Model for Portfolio Selection*
 3. Alain Hecq (Maastricht University): *Reduced-Rank Matrix Autoregressive Models: A Medium N Approach*
 4. Alex Maynard (University of Guelph): *Inference in Predictive Quantile Regressions*
-5. Alexander Murray (Bank of Canada): *Model Aggregation for Improving Forecasts of Canada's Core Inflation Rate*
 6. Amal Sere (University of Montreal): *Estimation of Demand with Market-Level Data in the Case of Decreasing Returns*
 7. Arthur Thomas (Paris Dauphine University): *Forecasting Extreme Trajectories Using Semi-norm Representations*
 8. Aryan Manafi Neyazi (York University): *GCov-Based Portmanteau Test*
