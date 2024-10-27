@@ -108,7 +108,7 @@ Host: Department of Economics, York University
 > Bin Chen (University of Rochester): *Inference for CP Tensor Factor Model*\
 > Discussant: Dalibor Stevanovic (UQAM)
 >
->"Rosnel Sessinou (Erasmus School of Economics): Precision Least Squares: Estimation and Inference in High-Dimensions"
+>Rosnel Sessinou (Erasmus School of Economics): *Precision Least Squares: Estimation and Inference in High-Dimensions*\
 > Discussant: Abhimanyu Gupta (University of Essex)
 
 12:10 -- 13:10: Lunch
