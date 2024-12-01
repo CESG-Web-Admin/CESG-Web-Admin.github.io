@@ -6,24 +6,26 @@ main:
     url: /annualMeeting/current/details/
 
 annualMeeting:
-  - title: "Current Meeting 2024: York"
+  - title: "Current Meeting 2025: Carleton"
     children:
       - title: "Details"
         url: /annualMeeting/current/details/
-      - title: "Call for Papers"
-        url: /annualMeeting/current/callForPapers/
-      - title: "Program"
-        url: /annualMeeting/current/program/
-      - title: "Registration"
-        url: /annualMeeting/current/registration/
-      - title: "Hotel/Travel Info"
-        url: /annualMeeting/current/hotelTravelInfo/
-  - title: Future Meeting
-    children:
-      - title: "2025: Carleton"
-        url: /annualMeeting/future/2025/
+        #- title: "Call for Papers"
+      #url: /annualMeeting/current/callForPapers/
+        #- title: "Program"
+      #url: /annualMeeting/current/program/
+        #- title: "Registration"
+      #url: /annualMeeting/current/registration/
+        #- title: "Hotel/Travel Info"
+      #url: /annualMeeting/current/hotelTravelInfo/
+        #- title: Future Meeting
+        #children:
+        #- title: "2025: Carleton"
+        #url: /annualMeeting/future/2025/
   - title: Past Meetings
     children:
+      - title: "2024: York"
+        url: /annualMeeting/past/2024/
       - title: "2023: McMaster"
         url: /annualMeeting/past/2023/
       - title: "2021: UBC"
