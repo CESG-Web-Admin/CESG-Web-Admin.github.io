@@ -4,7 +4,7 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
-year: 2024
+year: 2025
 ---
 <!--
 {:refdef: style="text-align: center;"}
@@ -15,25 +15,23 @@ year: 2024
 **Call for Papers**
 {: style="font-size: 125%; text-align: center;"}
 
-The 39th CESG Conference is organized by the Department of Economics at York University in Toronto, Ontario, from October 25-27, 2024.
+The 40th CESG Conference is being organized by the Department of Economics at Carleton University in Ottawa, Ontario, from October 17-19, 2025. The conference will be held at the Sheraton Ottawa Hotel.
 
-The conference theme is **"Inequality Measures and Econometric Modelling."** The keynote speakers are: 
+The conference theme is **"Credible Econometrics."** The keynote speakers are: 
 
-**Marc Henry (Penn State University)**
+**Ivan Canay (Northwestern University)**
 {: style="text-align: center;"}
-**Francesca Molinari (Cornell University)** 
+**Ulrich Müller (Princeton University)** 
 {: style="text-align: center;"}
 
-**Contributed papers for presentation at the conference are now invited.** Contributions are welcome in theoretical, applied, or computation econometrics. Submissions will be considered for regular and poster sessions, and only completed papers (submitted in PDF format) will be considered.
+**Contributed papers for presentation at the conference are now invited.** While we encourage submissions related to the theme of the conference, submissions in any area of theoretical or applied econometrics will also be considered. Submissions will be considered for regular and poster sessions, and only completed papers (submitted in PDF format) will be considered.
 
-Prospective contributors are invited to submit papers at <a href="mailto:caneconometrics@gmail.com">caneconometrics@gmail.com</a>. 
-The deadline for submissions is May 31, 2024.
+Prospective contributors are invited to submit papers by filling out the submission form: [https://forms.gle/Lj6LbbynThDELbaQ9](https://forms.gle/Lj6LbbynThDELbaQ9). The deadline for submissions is **July 15, 2025**.
 
-Notification of acceptance or rejection will be made by the end of June 2024. 
-All attendees are expected to register for the conference. 
+Notification of acceptance or rejection will be made by early August 2025. All attendees are expected to register for the conference. 
+
+In addition to the CESG, a workshop to celebrate the distinguished career of our colleague Professor Lynda Khalaf will be held on October 16, 2025, also at the Sheraton Ottawa Hotel. All CESG participants are welcome to attend. Further details will be announced at a later date.
 
 For up-to-date information on the conference, please visit [https://caneconometrics.ca](https://caneconometrics.ca). 
  
- Local organizers: Ilya Archakov, Antoine Djogbenou, Joann Jasiak, Paul Rilstone, Razvan Sufana, Pujee Tuvaandorj, Jun Zhao. 
-
- [Download PDF](/assets/pdf/CESG2024_callforpapers.pdf)
+Local organizers: Ba Chu, Lynda Khalaf, Thomas Russell, Matt Webb
