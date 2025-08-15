@@ -13,11 +13,11 @@ annualMeeting:
       - title: "Call for Papers"
         url: /annualMeeting/current/callForPapers/
         #- title: "Program"
-      #url: /annualMeeting/current/program/
+        #url: /annualMeeting/current/program/
       - title: "Registration"
-      url: /annualMeeting/current/registration/
-      - title: "Hotel/Travel Info"
-      url: /annualMeeting/current/hotelTravelInfo/
+        url: /annualMeeting/current/registration/
+      #- title: "Hotel/Travel Info"
+        #url: /annualMeeting/current/hotelTravelInfo/
         #- title: Future Meeting
         #children:
         #- title: "2025: Carleton"
