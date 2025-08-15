@@ -3,6 +3,7 @@ layout: archive
 title: " "
 classes: wide
 sidebar:
+  nav: "annualMeeting"
 nav: "annualMeeting"
 year: 2025
 date: October 17-19
