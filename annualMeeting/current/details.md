@@ -3,7 +3,7 @@ layout: archive
 title: " "
 classes: wide
 sidebar:
-  nav: "annualMeeting"
+nav: "annualMeeting"
 year: 2025
 date: October 17-19
 ---
@@ -39,19 +39,25 @@ Ulrich Müller (Princeton University)
 
 ---
 ## Sponsors
-We extend our sincere appreciation to all the sponsors who support the 40th Annual CESG Meeting.
+We extend our sincere appreciation to all the sponsors who are supporting the 40th Annual CESG Meeting.
   - Analysis Group
   - Canadian Economics Association 
   - The Centre for Monetary and Financial Economics
   - Department of Economics, Carleton University
-  - The International Association of Applied Econometrics (IAAE).
-  - Jean-Marie Dufour
+  - The Faculty of Public and Global Affairs, Carleton University
+  - The International Association of Applied Econometrics (IAAE)
+  - Professor Jean-Marie Dufour (McGill University)
+  - The Social Sciences and Humanities Research Council of Canada
 
 
 <img src="/assets/images/{{page.year}}/ag.png" alt="drawing"  width="300"/>
 
-<img src="/assets/images/{{page.year}}/carleton.jpg" alt="drawing" width="300"/>
+<img src="/assets/images/{{page.year}}/carleton_department.png" alt="drawing" width="300"/>
+
+<img src="/assets/images/{{page.year}}/carleton_faculty.png" alt="drawing" width="300"/>
 
 <img src="/assets/images/{{page.year}}/cea.png" alt="drawing"  width="300"/>
 
 <img src="/assets/images/{{page.year}}/iaae.png" alt="drawing"  width="300"/>
+
+<img src="/assets/images/{{page.year}}/sshrc.png" alt="drawing"  width="300"/>

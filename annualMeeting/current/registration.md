@@ -4,7 +4,7 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
-year: 2024
+year: 2025
 ---
 {:refdef: style="text-align: center;"}
 ![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
@@ -12,24 +12,27 @@ year: 2024
 
 
 **Registration**
-{: style="font-size: 125%; text-align: center;"}
+{: style="font-size: 120%; text-align: center;"}
 
-There are two steps for registration. Please complete both steps.
+Registration for the CESG is now open, and the registration form can be accessed by clicking the link below.
 
+<a href="https://payments.carleton.ca/cesg-conference/40th-annual-canadian-econometric-study-group-cesg-conference/" target="_blank">Registration Form</a>
 
+If you have been notified of acceptance in a presentation or poster session, you must confirm your attendance by registering for the conference. To remain in the program, all participants must register by **September 1, 2025.**
 
-# Step 1: Registration Fee
+If you are no longer able to participate, please contact the organizers as soon as possible.
 
-**Regular Registration: $200 (plus Eventbrite Fee & HST. $241.92 in total)**
+The conference program will be posted on the conference website shortly after the registration deadline.
 
-**Student Registration: $100 (plus Eventbrite Fee & HST. $121.69 in total)**
+Discounted hotel rates and booking codes will also be listed on the conference website shortly.
 
-<a href="https://www.eventbrite.ca/e/2024-cesg-meeting-york-university-toronto-canada-tickets-891172349487?aff=oddtdtcreator" target="_blank">Registration Fees on Eventbrite</a>
+**Workshop in Honour of Lynda Khalaf**
+{: style="font-size: 120%; text-align: center;"}
 
-When you click the "Get tickets" button under "From CA$121.69" on Eventbrite website, you will see both registration options. 
-      
-<br>
+The CESG will begin in the evening on October 17. During the day on October 17, we will hold the Workshop in Honour of the Distinguished Career of Professor Lynda Khalaf, also at the Sheraton Ottawa Hotel.
 
-# Step 2: Additional Information
+The program for the workshop can be accessed using the link below.
 
-<a href="https://laps.apps01.yorku.ca/machform/view.php?id=2304658" target="_blank">MachForm Link for Registration</a>
+<a href="https://docs.google.com/document/d/1WL3mOWIMYaUSyKfx1vEGRPMhhCYgx9nIwLLFfBTKljA/edit?tab=t.0" target="_blank">Registration Form</a>
+
+All CESG participants are welcome to attend this event, although we kindly ask that you confirm your participation prior to the event. A form has been included on the CESG registration page where you may indicate your intention to attend.

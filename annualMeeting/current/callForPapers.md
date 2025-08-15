@@ -24,14 +24,10 @@ The conference theme is **"Credible Econometrics."** The keynote speakers are:
 **Ulrich Müller (Princeton University)** 
 {: style="text-align: center;"}
 
-**Contributed papers for presentation at the conference are now invited.** While we encourage submissions related to the theme of the conference, submissions in any area of theoretical or applied econometrics will also be considered. Submissions will be considered for regular and poster sessions, and only completed papers (submitted in PDF format) will be considered.
+The call for papers has now ended. The deadline for submissions was **July 15, 2025**.
 
-Prospective contributors are invited to submit papers by filling out the submission form: [https://forms.gle/Lj6LbbynThDELbaQ9](https://forms.gle/Lj6LbbynThDELbaQ9). The deadline for submissions is **July 15, 2025**.
+In addition to the CESG, a workshop to celebrate the distinguished career of our colleague Professor Lynda Khalaf will be held on October 17, 2025, also at the Sheraton Ottawa Hotel. All CESG participants are welcome to attend.
 
-Notification of acceptance or rejection will be made by early August 2025. All attendees are expected to register for the conference. 
-
-In addition to the CESG, a workshop to celebrate the distinguished career of our colleague Professor Lynda Khalaf will be held on October 16, 2025, also at the Sheraton Ottawa Hotel. All CESG participants are welcome to attend. Further details will be announced at a later date.
-
-For up-to-date information on the conference, please visit [https://caneconometrics.ca](https://caneconometrics.ca). 
+For up-to-date information on the conference, please visit [https://caneconometrics.ca/annualMeeting/current/details/](https://caneconometrics.ca/annualMeeting/current/details/). 
  
 Local organizers: Ba Chu, Lynda Khalaf, Thomas Russell, Matt Webb
