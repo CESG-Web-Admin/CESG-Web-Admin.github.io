@@ -4,7 +4,7 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
-year: 2024
+year: 2025
 ---
 {:refdef: style="text-align: center;"}
 ![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
@@ -16,23 +16,22 @@ year: 2024
 
 ## Accommodation
 
-We have arranged a block of rooms at a special conference rate at the Novotel North York:
+We have arranged a block of rooms at a special conference rate at the Sheraton Ottawa Hotel:
 
-- Rate: $189 for king bed or double bed until September 15, 2024.
-- To book, please call hotel reservation directly at 416-733-2929 extension 1 and mention group name “York University-Economics” or Block ID#1744612, to avail the special group rate. Alternatively, you can email reservations@novotelnorthyork.com
+- Rate: $219 per night between Thursday October 16 - Monday October 20, 2025. 
+- The rate is available until **September 17, 2025** at 12:00 EST.
+- [To book, please click on this link.](https://www.marriott.com/event-reservations/reservation-link.mi?id=1755615001047&key=GRP&app=resvlink)
   
 
-## Travel Information to Toronto (North York), Ontario
+## Travel Information to Ottawa, Ontario
 - Air Travel
-  + Toronto Pearson International Airport (YYZ) offers a wide range of domestic and international flights. 
-  + Billy Bishop Toronto City Airport (YTZ) is directly connected to the Toronto subway (TTC) line at Union Station through a shuttle. 
-  + You can take the subway to North York Centre Station. The conference venue is 3 minutes walking distance.
-  + Participants can also use a taxi or a share ride service to travel from the airport to North York in Toronto.
+  + The Ottawa International Airport (YOW) offers a wide range of domestic and international flights. 
+  + Participants can use a taxi or a ride share service to travel from the airport to the Sheraton Ottawa Hotel (about 20 min).
 - Car Travel
-  + North York in Toronto is accessible via several major highways, including the 401 and the 407.
+  + Downtown Ottawa is accesible via highway 417.
 - Train Travel 
-  + Toronto is served by VIA Rail, providing train connections to various cities across Canada. The closest VIA RAIL station to the conference venue is Union Station Toronto.
-  + You can use a taxi or a share ride service to travel from the Union Station to North York in Toronto. You can also use the subway line from Union Station to North York Centre Station and walk 3 minutes to the conference venue.
+  + Ottawa is served by VIA Rail, providing train connections to various cities across Canada. 
+  + You can use a taxi or a ride share service to travel from the train station to the conference hotel (about 15 min). 
 
-## Parking Information around the Venue (North York Novotel)
-- There is an underground paid parking at the conference venue. There are also other parking slots around the venue.
+## Parking Information around the venue (Sheraton Ottawa Hotel)
+- Valet parking is available at the hotel at a daily rate of $35.00. Paid parking is also available at other locations in the area.
