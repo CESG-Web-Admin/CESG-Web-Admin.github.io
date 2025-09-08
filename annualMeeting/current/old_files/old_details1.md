@@ -4,6 +4,7 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
+nav: "annualMeeting"
 year: 2025
 date: October 17-19
 ---
@@ -37,8 +38,6 @@ Ivan Canay (Northwestern University)
 Ulrich Müller (Princeton University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
 
-[Link to the Program](/assets/extra_htm/CESG_program0.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
-
 ---
 ## Sponsors
 We extend our sincere appreciation to all the sponsors who are supporting the 40th Annual CESG Meeting.
@@ -47,7 +46,7 @@ We extend our sincere appreciation to all the sponsors who are supporting the 40
   - The Centre for Monetary and Financial Economics
   - Department of Economics, Carleton University
   - The Faculty of Public and Global Affairs, Carleton University
-  - The International Association of Applied Econometrics (IAAE).
+  - The International Association of Applied Econometrics (IAAE)
   - Professor Jean-Marie Dufour (McGill University)
   - The Social Sciences and Humanities Research Council of Canada
 
