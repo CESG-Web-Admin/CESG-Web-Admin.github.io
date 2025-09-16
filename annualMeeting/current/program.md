@@ -25,5 +25,5 @@ Ottawa ON, K1P 5G2
 {: style="text-align: center;"}
 
 
-[Link to the Program](/assets/extra_htm/CESG_program0.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
+[Link to the Program](/assets/extra_htm/CESG_program1.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
 

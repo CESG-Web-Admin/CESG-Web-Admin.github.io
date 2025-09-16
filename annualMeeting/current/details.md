@@ -37,7 +37,7 @@ Ivan Canay (Northwestern University)
 Ulrich Müller (Princeton University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
 
-[Link to the Program](/assets/extra_htm/CESG_program0.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
+[Link to the Program](/assets/extra_htm/CESG_program1.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
 
 ---
 ## Sponsors

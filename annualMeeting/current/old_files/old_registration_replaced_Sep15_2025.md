@@ -20,7 +20,7 @@ Registration for the CESG is now open, and the registration form can be accessed
 
 If you have been notified of acceptance in a presentation or poster session, you must confirm your attendance by registering for the conference. To remain in the program, all participants (posters and presentations) must register by **September 1, 2025.** If you are no longer able to participate, please contact the organizers as soon as possible.
 
-For non-participants who wish to attend the conference, the early bird deadline for registration is **September 19, 2025.** After this date, registration costs will increase by 50%. The final registration date is **September 30, 2025.**
+For non-participants who wish to attend the conference, the early bird deadline for registration is **September 15, 2025.** After this date, registration costs will increase by 50%. The final registration date is **September 30, 2025.**
 
 The conference program will be posted on the conference website at the beginning of September.
 
