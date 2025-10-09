@@ -18,7 +18,7 @@ The 40th Annual CESG Meeting
 Ottawa, Ontario
 {: style="font-size: 120%; text-align: center;"}
 
-The 40th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Ottawa, Ontario on **{{page.date}}, {{page.year}}**. The meeting is being organized by the Department of Economics at Carleton University. The conference theme is **"Credible Econometrics."** 
+The 40th Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Ottawa, Ontario on **{{page.date}}, {{page.year}}**. The meeting is being organized by the Department of Economics at Carleton University.
 {: style="text-align: justify;"}
 
 \\
@@ -37,15 +37,7 @@ Ivan Canay (Northwestern University)
 Ulrich Müller (Princeton University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
 
-[Link to Program](/assets//extra_htm/CESG_program1.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
-
-The CESG will begin in the evening on October 17. During the day on October 17, we will hold the Workshop in Honour of the Distinguished Career of Professor Lynda Khalaf, also at the Sheraton Ottawa Hotel.
-
-The program for the workshop can be accessed using the link below.
-
-<a href="https://docs.google.com/document/d/1WL3mOWIMYaUSyKfx1vEGRPMhhCYgx9nIwLLFfBTKljA/edit?tab=t.0" target="_blank">Workshop Program</a>
-
-**Registration for the workshop is now closed.**
+[Link to the Program](/assets/extra_htm/CESG_program1.htm){:target="_blank" rel="noopener noreferrer" style="font-size: 125%; text-align: center;"}
 
 ---
 ## Sponsors
