@@ -7,11 +7,9 @@ sidebar:
 year: 2026
 date: October 16-18
 ---
-<!--
 {:refdef: style="text-align: center;"}
-![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
+![Meeting Image path](/assets/images/{{page.year}}/SFU_Vancouver.jpg)
 {: refdef}
--->
 
 
 The 41st Annual CESG Meeting
