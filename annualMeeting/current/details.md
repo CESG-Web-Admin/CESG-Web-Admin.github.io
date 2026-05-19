@@ -13,8 +13,8 @@ year: 2026
 The 41st CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
-"Recent Advances in Econometrics: 
-robustness, flexibility and adaptivity"
+Recent Advances in Econometrics:<br> 
+robustness, flexibility and adaptivity
 {: style="color:blue; font-size: 150%; text-align: center;"}
 
 October 16-18, 2026\\
