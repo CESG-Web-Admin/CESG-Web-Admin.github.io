@@ -33,7 +33,7 @@ Pedro Sant’Anna (Emory U.)
 
 ---
 ## Details
-The 41st Annual Meeting of the Canadian Econometrics Study Group (CESG) will be held in Vancouver (BC) on October 16-18, 2026.
+The 41st Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Vancouver (BC) on October 16-18, 2026.
 The meeting is organized by the Department of Economics at Simon Fraser University. The conference will start at 2pm on Friday Oct.16 and will adjourn on Sunday Oct.18th after lunch.
 
 \\
