@@ -13,7 +13,8 @@ year: 2026
 The 41st CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
-"Recent Advances in Econometrics: robustness, flexibility and adaptivity"
+"Recent Advances in Econometrics: 
+robustness, flexibility and adaptivity"
 {: style="color:blue; font-size: 150%; text-align: center;"}
 
 October 16-18, 2026\\
@@ -33,8 +34,7 @@ Pedro Sant’Anna (Emory U.)
 ---
 ## Details
 
-The 41st Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Hamilton, Ontario on **October 27-29, 2023**. The meeting is organized by the Department of Economics at McMaster University.
-Vancouver (BC) on October 16-18, 2026. The meeting is organized by the Department of Economics at Simon Fraser University. The conference will start at 2pm on Friday Oct.16 and will adjourn on Sunday Oct.18th after lunch.
+The meeting is organized by the Department of Economics at Simon Fraser University. The conference will start at 2pm on Friday Oct.16 and will adjourn on Sunday Oct.18th after lunch.
 
 \\
 Venue: <a href="https://www.coasthotels.com/coast-coal-harbour-vancouver-hotel-by-apa/deals?gad_source=1&gad_campaignid=21493683090&gclid=EAIaIQobChMI4fvfktywlAMVGmhBAh2tBAQWEAAYASAAEgKdl_D_BwE" target="_blank">COAST Coal Harbour Vancouver Hotel</a> downtown Vancouver
