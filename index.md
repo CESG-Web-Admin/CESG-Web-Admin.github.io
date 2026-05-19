@@ -17,4 +17,4 @@ The 41st CESG Annual Meeting in 2026 will be organized by <span style="color:#00
 
 ----
 
-Please join <span style="color: darkblue;">the CESG email list</span> by sending your contact information to <a href="mailto:caneconometrics@gmail.com">caneconometrics@gmail.com</a>
+Please join <span style="color: darkblue;">the CESG email list</span> by sending your contact information to <a href="mailto:admin@caneconometrics.ca">admin@caneconometrics.ca</a>
