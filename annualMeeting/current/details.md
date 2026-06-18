@@ -52,4 +52,4 @@ Please use the following link to complete your booking: <a href="https://book.pa
 
 We extend our sincere appreciation to all the sponsors who support the 41st CESG Annual Meeting. 
 - Journal of Econometrics
-- [International Association for Applied Econometrics (IAAE)](https://appliedeconometrics.org)
+- <a href="https://appliedeconometrics.org" target="_blank">International Association for Applied Econometrics (IAAE)</a>
