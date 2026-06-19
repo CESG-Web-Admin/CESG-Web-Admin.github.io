@@ -55,7 +55,6 @@ We extend our sincere appreciation to all the sponsors who support the 41st CESG
 \\
 Journal of Econometrics
 {: style="font-size: 125%; text-align: left; color:#000099"}
-
 \\
 <a href="https://appliedeconometrics.org" target="_blank">International Association for Applied Econometrics (IAAE)</a> ![](images/IAAE_logo.png)
 {: style="font-size: 125%; text-align: left; color:#000099"}
