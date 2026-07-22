@@ -6,9 +6,11 @@ sidebar:
   nav: "annualMeeting"
 year: 2026
 ---
+<!--
 {:refdef: style="text-align: center;"}
-![Meeting Image path](/assets/images/{{page.year}}/annualMeeting.jpg)
+![Meeting Image path](/SFU_Vancouver.jpg)
 {: refdef}
+-->
 
 
 **Registration**
