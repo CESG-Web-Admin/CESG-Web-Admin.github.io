@@ -48,6 +48,13 @@ We have arranged a block of rooms at a special conference rate at the conference
 Please use the following link to complete your booking: <a href="https://book.passkey.com/e/51257532" target="_blank">book here</a>.
 
 ---
+## Registration 
+
+Registration for the CESG is now open, and the registration form can be accessed by clicking the link below.
+
+<a href="https://www.eventbrite.ca/e/41st-annual-meeting-of-the-cesg-hosted-by-sfu-tickets-1994694200048?aff=oddtdtcreator" target="_blank">Registration Form</a>
+
+---
 ## Sponsors
 
 We extend our sincere appreciation to all the sponsors who support the 41st CESG Annual Meeting. 
