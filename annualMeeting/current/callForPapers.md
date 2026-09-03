@@ -6,11 +6,9 @@ sidebar:
   nav: "annualMeeting"
 year: 2026
 ---
-<!--
 {:refdef: style="text-align: center;"}
-![Meeting Image path](/SFU_Vancouver.jpg)
+![Meeting Image path](/assets/images/{{page.year}}/SFU_Vancouver.jpg)
 {: refdef}
--->
 
 **Call for Papers**
 {: style="font-size: 125%; text-align: center;"}
