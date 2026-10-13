@@ -14,7 +14,7 @@ The 41st CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
 Recent Advances in Econometrics:<br> 
-robustness, flexibility and adaptivity
+Robustness, Flexibility and Adaptivity
 {: style="color:blue; font-size: 150%; text-align: center;"}
 
 October 16-18, 2026\\
@@ -50,9 +50,7 @@ Please use the following link to complete your booking: <a href="https://book.pa
 ---
 ## Registration 
 
-Registration for the CESG is now open, and the registration form can be accessed by clicking the link below.
-
-<a href="https://www.eventbrite.ca/e/41st-annual-meeting-of-the-cesg-hosted-by-sfu-tickets-1994694200048?aff=oddtdtcreator" target="_blank">Registration Form</a>
+**Registration for the CESG is now closed.**
 
 ---
 ## Sponsors
