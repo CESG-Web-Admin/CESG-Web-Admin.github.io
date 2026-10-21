@@ -13,7 +13,7 @@ We bring together a community of passionate researchers who are interested in ad
 {: .text-justify}
 
 ----
-The 41st CESG Annual Meeting in 2026 will be organized by <span style="color:#000099">Simon Fraser University</span> in Vancouver, British Columbia on October 16-18.
+The 42nd CESG Annual Meeting in 2027: details TBA.
 
 ----
 

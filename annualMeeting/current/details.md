@@ -4,63 +4,22 @@ title: " "
 classes: wide
 sidebar:
   nav: "annualMeeting"
-year: 2026
+year: 2027
 ---
 {:refdef: style="text-align: center;"}
-![Meeting Image path](/assets/images/2026/SFU_Vancouver.jpg)
+![Meeting Image path](/assets/images/landing.jpg)
 {: refdef}
 
-The 41st CESG Annual Meeting
+The 42nd CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
-Recent Advances in Econometrics:<br> 
-Robustness, Flexibility and Adaptivity
-{: style="color:blue; font-size: 150%; text-align: center;"}
-
-October 16-18, 2026\\
-Vancouver, British Columbia
+Date: TBA\\
+Location: TBA
 {: style="font-size: 120%; text-align: center;"}
 
 ---
-## Keynote Speakers
-Yoosoon Chang (Indiana U.)
-{: style="font-size: 105%; text-align: center; color:#000099"}
-Tong Li (Vanderbilt U.)
-{: style="font-size: 105%; text-align: center; color:#000099"}
-Pedro Sant’Anna (Emory U.)
-{: style="font-size: 105%; text-align: center; color:#000099"}
-
-
----
 ## Details
-The 41st Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Vancouver (BC) on October 16-18, 2026.
-The meeting is organized by the Department of Economics at Simon Fraser University. The conference will start at 2pm on Friday Oct.16 and will adjourn on Sunday Oct.18th after lunch.
+Details on the 42nd Annual Meeting of the **Canadian Econometrics Study Group (CESG)** in 2027, including the host, dates and venue, will be announced soon.
+{: style="text-align: justify;"}
 
-\\
-Venue: <a href="https://www.coasthotels.com/coast-coal-harbour-vancouver-hotel-by-apa/deals?gad_source=1&gad_campaignid=21493683090&gclid=EAIaIQobChMI4fvfktywlAMVGmhBAh2tBAQWEAAYASAAEgKdl_D_BwE" target="_blank">COAST Coal Harbour Vancouver Hotel</a> downtown Vancouver
-{: style="font-size: 120%; text-align: center; color:#000099"}
-
----
-## Accommodation
-
-We have arranged a block of rooms at a special conference rate at the conference venue. 
-
-Please use the following link to complete your booking: <a href="https://book.passkey.com/e/51257532" target="_blank">book here</a>.
-
----
-## Registration 
-
-**Registration for the CESG is now closed.**
-
----
-## Sponsors
-
-We extend our sincere appreciation to all the sponsors who support the 41st CESG Annual Meeting. 
-
-\\
-Journal of Econometrics
-{: style="font-size: 125%; text-align: left; color:#000099"}
-\\
-International Association for Applied Econometrics<a href="https://appliedeconometrics.org" target="_blank"> [Link]</a> ![](images/IAAE_logo.png)
-{: style="font-size: 125%; text-align: left; color:#000099"}
-
+Please join <span style="color: darkblue;">the CESG email list</span> by sending your contact information to <a href="mailto:admin@caneconometrics.ca">admin@caneconometrics.ca</a> to receive announcements.
