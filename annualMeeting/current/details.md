@@ -15,11 +15,11 @@ Montréal, Quebec
 
 ---
 ## Keynote Speakers
-Xiaohong Chen (Yale U.)
+Xiaohong Chen (Yale University)
 {: style="font-size: 105%; text-align: center; color:#000099"}
-Ismael Mourifié (Washington U. in St. Louis)
+Ismael Mourifié (Washington University in St. Louis)
 {: style="font-size: 105%; text-align: center; color:#000099"}
-Frank Schorfheide (U. of Pennsylvania)
+Frank Schorfheide (University of Pennsylvania)
 {: style="font-size: 105%; text-align: center; color:#000099"}
 
 
