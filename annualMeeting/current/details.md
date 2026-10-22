@@ -6,6 +6,10 @@ sidebar:
   nav: "annualMeeting"
 year: 2027
 ---
+{:refdef: style="text-align: center;"}
+![Meeting Image path](/assets/images/2027/montreal_mcgill_uqam.jpg)
+{: refdef}
+
 The 42nd CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
