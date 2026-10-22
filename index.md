@@ -13,7 +13,7 @@ We bring together a community of passionate researchers who are interested in ad
 {: .text-justify}
 
 ----
-The 42nd CESG Annual Meeting in 2027 will be organized by <span style="color:#000099">McGill University</span> and <span style="color:#000099">Université du Québec à Montréal (UQAM)</span> in Montreal, Quebec. Further details TBA.
+[The 42nd CESG Annual Meeting in 2027](/annualMeeting/current/details/) will be co-organized by <span style="color:#000099">McGill University</span> and <span style="color:#000099">Université du Québec à Montréal (UQAM)</span> in Montréal, Quebec on October 1-3.
 
 ----
 

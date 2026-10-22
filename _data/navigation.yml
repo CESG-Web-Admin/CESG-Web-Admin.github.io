@@ -6,7 +6,7 @@ main:
     url: /annualMeeting/current/details/
 
 annualMeeting:
-  - title: "Current Meeting<br>2027: McGill & UQAM"
+  - title: "Current Meeting<br>2027: McGill and UQAM"
     children:
       - title: "Details"
         url: /annualMeeting/current/details/
