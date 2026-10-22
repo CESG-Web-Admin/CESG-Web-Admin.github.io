@@ -44,9 +44,9 @@ The conference rooms are in a separate one-level building set back from Préside
 ---
 ## Scientific Committee
 
-- Marine Carrasco (Université de Montréal, CIRANO)
-- Saraswata Chaudhuri (McGill University)
-- Prosper Dovonon (Concordia University, CIRANO)
+- Marine Carrasco (Université de Montréal, CIRANO, CIREQ)
+- Saraswata Chaudhuri (McGill University, CIREQ)
+- Prosper Dovonon (Concordia University, CIRANO, CIREQ)
 - Philippe Goulet Coulombe (UQAM, CIRANO)
 - Silvia Gonçalves (McGill University, CIRANO, CIREQ)
 - Alain Guay (UQAM)
