@@ -58,4 +58,4 @@ The conference rooms are in a separate one-level building set back from Préside
 - Silvia Gonçalves (McGill University, CIRANO, CIREQ)
 - Alain Guay (UQAM)
 - Dalibor Stevanovic (UQAM, CIRANO)
-- Vicky Zinde-Walsh (McGill University)
+- Vicky Zinde-Walsh (McGill University, CIREQ)
