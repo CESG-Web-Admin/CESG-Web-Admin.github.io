@@ -48,14 +48,14 @@ The conference rooms are in a separate one-level building set back from Préside
 - Saraswata Chaudhuri (McGill University)
 - Prosper Dovonon (Concordia University, CIRANO)
 - Philippe Goulet Coulombe (UQAM, CIRANO)
-- Silvia Gonçalves (McGill University, CIRANO)
+- Silvia Gonçalves (McGill University, CIRANO, CIREQ)
 - Alain Guay (UQAM)
 - Dalibor Stevanovic (UQAM, CIRANO)
 
 ---
 ## Local Organizers
 
-- Silvia Gonçalves (McGill University, CIRANO)
+- Silvia Gonçalves (McGill University, CIRANO, CIREQ)
+- Alain Guay (UQAM)
 - Dalibor Stevanovic (UQAM, CIRANO)
 - Vicky Zinde-Walsh (McGill University)
-- Alain Guay (UQAM)
