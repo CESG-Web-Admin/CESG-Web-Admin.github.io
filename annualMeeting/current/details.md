@@ -13,9 +13,6 @@ October 1-3, 2027\\
 Montréal, Quebec
 {: style="font-size: 120%; text-align: center;"}
 
-<a href="/assets/pdf/CESG2027_flyer.pdf" target="_blank">Download the flyer (PDF)</a>
-{: style="text-align: center;"}
-
 ---
 ## Keynote Speakers
 Xiaohong Chen (Yale U.)
@@ -29,7 +26,7 @@ Frank Schorfheide (U. of Pennsylvania)
 ---
 ## Details
 The 42nd Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Montréal (QC) on October 1-3, 2027.
-The meeting is co-organized by McGill University and Université du Québec à Montréal (UQAM). The local organizers are Silvia Gonçalves (McGill University, CIRANO) and Dalibor Stevanovic (UQAM, CIRANO), principal investigator for CIRANO's Economic and Fiscal Policy theme. The conference will start on Friday afternoon, October 1, and will adjourn on Sunday, October 3, at noon.
+The meeting is co-organized by McGill University and Université du Québec à Montréal (UQAM). The conference will start on Friday afternoon, October 1, and will adjourn on Sunday, October 3, at noon.
 
 \\
 Venue: Cœur des sciences, UQAM, avenue du Président-Kennedy, Montréal
