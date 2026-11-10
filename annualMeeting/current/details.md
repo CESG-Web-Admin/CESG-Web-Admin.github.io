@@ -13,6 +13,8 @@ year: 2027
 The 42nd CESG Annual Meeting
 {: style="color:black; font-size: 175%; text-align: center;"}
 
+<p style="font-size:130%; text-align:center; color:#000099">Robust Inference for Credible Empirical Economics</p>
+
 October 1-3, 2027\\
 Montréal, Quebec
 {: style="font-size: 120%; text-align: center;"}
@@ -30,7 +32,7 @@ Frank Schorfheide (University of Pennsylvania)
 ---
 ## Details
 The 42nd Annual Meeting of the **Canadian Econometrics Study Group (CESG)** will be held in Montréal (QC) on October 1-3, 2027.
-The meeting is co-organized by McGill University and Université du Québec à Montréal (UQAM). The conference will start on Friday afternoon, October 1, and will adjourn on Sunday, October 3, at noon.
+The meeting is co-organized by McGill University and Université du Québec à Montréal (UQAM). The conference will start on Friday afternoon, October 1, and will adjourn on Sunday, October 3, at noon. The conference theme is **"Robust Inference for Credible Empirical Economics."**
 
 \\
 Venue: Cœur des sciences, UQAM, avenue du Président-Kennedy, Montréal
